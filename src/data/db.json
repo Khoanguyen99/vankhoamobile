@@ -1,0 +1,273 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "title": "iPhone",
+            "link": "https://hoaituanmobile.vn/iphone/",
+            "items": [
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-12-iphone-12-pro-iphone-12-promax/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-11Pro.svg",
+                    "titleChild": "iPhone 12 | 12 Pro | 12 Pro max"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-11-11-pro-11-pro-max/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-11Pro.svg",
+                    "titleChild": "iPhone 11 | 11 Pro | 11 Pro max"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-xs-xs-max/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-XR.svg",
+                    "titleChild": "iPhone Xs | Xs Max"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-x/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-XR.svg",
+                    "titleChild": "iPhone X | XR"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-8-8-plus-7-7-plus/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-8.svg",
+                    "titleChild": "iPhone 8 | 8 Plus | 7 | 7Plus"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/iphone-7-7-plus/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-8.svg",
+                    "titleChild": "iPhone 6s | 6SPlus"
+                },
+                {
+                    "linkChild": "#",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-All-Product.svg",
+                    "titleChild": "Xem tất cả"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPad",
+            "link": "https://hoaituanmobile.vn/ipad/",
+            "items": [
+                {
+                    "linkChild": "https://hoaituanmobile.vn/ipad-pro/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Pro.png",
+                    "titleChild": "iPad Pro"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/ipad-air/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Air.svg",
+                    "titleChild": "iPad Air"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/ipad-mini/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Air.svg",
+                    "titleChild": "iPad Mini"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Apple Watch",
+            "link": "https://hoaituanmobile.vn/apple-watch/",
+            "items": [
+                {
+                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-5/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri5.svg",
+                    "titleChild": "Apple Watch Series 5"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-4/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri4.svg",
+                    "titleChild": "Apple Watch Series 4"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-3/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri3.svg",
+                    "titleChild": "Apple Watch Series 3"
+                },
+                {
+                    "linkChild": "#",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-all.svg",
+                    "titleChild": "Tất cả Apple Watch"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Phụ Kiện",
+            "link": "https://hoaituanmobile.vn/phu-kien",
+            "items": [
+                {
+                    "linkChild": "https://hoaituanmobile.vn/tai-nghe/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-headphone.svg",
+                    "titleChild": "Tai Nghe"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/sac-du-phong/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-energy.svg",
+                    "titleChild": "Sạc Dự Phòng"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/loa-bluetooth/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-sound.svg",
+                    "titleChild": "Loa Bluetooth"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/cap-sac/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-line.svg",
+                    "titleChild": "Cáp Sạc"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/coc-sac/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-adapter.svg",
+                    "titleChild": "Cóc Sạc"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Dịch Vụ",
+            "link": "https://hoaituanmobile.vn/dich-vu/",
+            "items": [
+                {
+                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-pin/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-1.svg",
+                    "titleChild": "Thay Pin"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-kinh/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-2.svg",
+                    "titleChild": "Thay Kính"
+                },
+                {
+                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-man-hinh/",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-3.svg",
+                    "titleChild": "Thay Màn Hình"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Tin Tức",
+            "link": "https://hoaituanmobile.vn/tin-tuc/",
+            "items": [
+
+            ]
+        }
+    ],
+    "slider": [
+        {
+            "id": 1,
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/11/bannerhome1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/banner-iphoneht.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/banner-ipadht.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/11/watchbaner-.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone New",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-iphone-new.jpg" 
+        },
+        {
+            "id": 2,
+            "title": "iPhone 99%",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-iphone-99.png" 
+        },
+        {
+            "id": 3,
+            "title": "iPad",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-ipad-new.png" 
+        },
+        {
+            "id": 4,
+            "title": "Apple Watch",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-apple-watch.png" 
+        },
+        {
+            "id": 5,
+            "title": "Macbook",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-macbook.png" 
+        },
+        {
+            "id": 6,
+            "title": "Accessories",
+            "image": "https://hoaituanmobile.vn/wp-content/themes/htmobile/assets/images/product/ht-accessories.jpeg" 
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "title": "Vạn quà Tết - Kết lộc xuân",
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2021/01/Năm-Tuất-Tết-Nguyên-Dán-Thiệp-1-579x384.jpg",
+            "date": "26/01/2021",
+            "content": "abc"
+        },
+        {
+            "id": 2,
+            "title": "Đón giáng sinh - Rinh hàng hiệu",
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/12/giangsinh2-579x384.jpg",
+            "date": "21/12/2020",
+            "content": "abcde"
+        },
+        {
+            "id": 3,
+            "title": "Apple Iphone 12 chính thức: màn hình OLED 6.1 inch, A14 Bionic, có 5G",
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/10/5185065_Screen_Shot_2020-10-14_at_00.40.58-383x254.jpeg",
+            "date": "14/10/2020",
+            "content": "abc"
+        },
+        {
+            "id": 4,
+            "title": "Hướng dẫn cách đổi eSIM Mobifone tại nhà",
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/11/cach-doi-esim-mobifone-online-383x254.jpg",
+            "date": "28/11/2020",
+            "content": "abcdedf"
+        },
+        {
+            "id": 5,
+            "title": "Iphone 12 mini chính thức: Màn hình 5.4 inch trong thân hình của iPhone SE",
+            "image": "https://hoaituanmobile.vn/wp-content/uploads/2020/10/5185307_hopmay_iphone12-383x254.jpg",
+            "date": "26/01/2021",
+            "content": "abc"
+        },
+        {
+            "id": 6,
+            "title": "Thiết lập bảo mật iPhone ngăn chặn kẻ gian truy cập máy khi bị lấy cắp !",
+            "image": "https://applecenter.com.vn/images/uploads/cms/16455184012570-797x297-CA_thiet-lap-bao-mat-iphone-ngan-chan-ke-gian-truy-cap-may-khi-bi-lay-cap.jpg",
+            "date": "20/03/2022",
+            "content": "abc"
+        }
+    ],
+    "footerContents": [
+        {
+            "title": "Về Văn Khoa Mobile",
+            "content": "Được thành lập và phát triển vào 2022 – Văn Khoa Mobile với tiêu chí coi khách hàng như người thân – Nghiêm ngặt và khắt khe với từng sản phẩm của mình trong quá trình chọn lọc và nhập hàng."
+        },
+        {
+            "title": "Chính sách & Hỗ trợ",
+            "content": [
+                "Chính sách đổi trả",
+                "Chính sách bảo hành",
+                "Hỏi đáp mua online",
+                "Phương thức thanh toán"
+            ]
+        },
+        {
+            "title": "Liên hệ",
+            "content": [
+                "Địa chỉ: K338/18 Hoàng Diệu, Đà Nẵng",
+                "Hotline: 086881439"
+            ]
+        }
+    ]
+}
