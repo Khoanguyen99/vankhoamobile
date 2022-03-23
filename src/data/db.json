@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "iPhone",
-            "link": "https://hoaituanmobile.vn/iphone/",
+            "link": "/iphone",
             "items": [
                 {
                     "linkChild": "https://hoaituanmobile.vn/iphone-12-iphone-12-pro-iphone-12-promax/",
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "title": "iPad",
-            "link": "https://hoaituanmobile.vn/ipad/",
+            "link": "/ipad",
             "items": [
                 {
                     "linkChild": "https://hoaituanmobile.vn/ipad-pro/",
@@ -67,7 +67,7 @@
         {
             "id": 3,
             "title": "Apple Watch",
-            "link": "https://hoaituanmobile.vn/apple-watch/",
+            "link": "/apple-watch",
             "items": [
                 {
                     "linkChild": "https://hoaituanmobile.vn/apple-watch-series-5/",
@@ -94,7 +94,7 @@
         {
             "id": 4,
             "title": "Phụ Kiện",
-            "link": "https://hoaituanmobile.vn/phu-kien",
+            "link": "/accessory",
             "items": [
                 {
                     "linkChild": "https://hoaituanmobile.vn/tai-nghe/",
@@ -126,7 +126,7 @@
         {
             "id": 5,
             "title": "Dịch Vụ",
-            "link": "https://hoaituanmobile.vn/dich-vu/",
+            "link": "/apple-services",
             "items": [
                 {
                     "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-pin/",
@@ -148,7 +148,7 @@
         {
             "id": 6,
             "title": "Tin Tức",
-            "link": "https://hoaituanmobile.vn/tin-tuc/",
+            "link": "/news",
             "items": [
 
             ]
@@ -269,5 +269,298 @@
                 "Hotline: 086881439"
             ]
         }
+    ],
+    "iPhone": {
+        "iPhone13Series": [
+            {
+                "id": 1,
+                "title": "iPhone 13 Pro Max 128GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369097743_iphone-13-pro-max-dd-1.jpg",
+                "price": "30.490.000"
+            },
+            {
+                "id": 2,
+                "title": "iPhone 13 Pro Max 256GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369097743_iphone-13-pro-max-dd-1.jpg",
+                "price": "33.490.000"
+            },
+            {
+                "id": 3,
+                "title": "iPhone 13 Pro Max 512GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369097743_iphone-13-pro-max-dd-1.jpg",
+                "price": "39.490.000"
+            },
+            {
+                "id": 4,
+                "title": "iPhone 13 Pro Max 1TB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369097743_iphone-13-pro-max-dd-1.jpg",
+                "price": "48.990.000"
+            },
+            {
+                "id": 5,
+                "title": "iPhone 13 Pro 128GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369254029_iphone-13-pro-dd-1.jpg",
+                "price": "27.990.000"
+            },
+            {
+                "id": 6,
+                "title": "iPhone 13 Pro 256GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369254029_iphone-13-pro-dd-1.jpg",
+                "price": "30.490.000"
+            },
+            {
+                "id": 7,
+                "title": "iPhone 13 Pro 512GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369254029_iphone-13-pro-dd-1.jpg",
+                "price": "37.490.000"
+            },
+            {
+                "id": 8,
+                "title": "iPhone 13 Pro 1TB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369254029_iphone-13-pro-dd-1.jpg",
+                "price": "40.990.000"
+            },
+            {
+                "id": 9,
+                "title": "iPhone 13 128GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825904686398699_iphone-13-dd-1.jpg",
+                "price": "22.490.000"
+            },
+            {
+                "id": 10,
+                "title": "iPhone 13 256GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825904686398699_iphone-13-dd-1.jpg",
+                "price": "24.990.000"
+            },
+            {
+                "id": 11,
+                "title": "iPhone 13 512GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825904686398699_iphone-13-dd-1.jpg",
+                "price": "29.990.000"
+            },
+            {
+                "id": 12,
+                "title": "iPhone 13 mini 128GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825905785792111_iphone-13-mini-dd-1.jpg",
+                "price": "18.990.000"
+            },
+            {
+                "id": 13,
+                "title": "iPhone 13 mini 256GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825905785792111_iphone-13-mini-dd-1.jpg",
+                "price": "22.490.000"
+            }
+        ],
+        "iPhone12Series":[
+            {
+                "id": 1,
+                "title": "iPhone 12 64GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/1/637686973775896947_ip-12-dd.jpg",
+                "price": "18.499.000"
+            }
+        ],
+        "iPhone11Series":[
+            {
+                "id": 1,
+                "title": "iPhone 11 64GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png",
+                "price": "13.999.000"
+            },
+            {
+                "id": 2,
+                "title": "iPhone 11 128GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png",
+                "price": "15.999.000"
+            },
+            {
+                "id": 3,
+                "title": "iPhone 11 256GB",
+                "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/26/637393169370871358_ip-11-dd.png",
+                "price": "17.999.000"
+            }
+        ]
+    },
+    "iPad": [
+        {
+            "id": 1,
+            "title": "iPad Pro 11 2021 M1 Wi-Fi 128GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546013880588874_ipad-pro-11-wifi-dd.jpg",
+            "price": "19.999.000"
+        },
+        {
+            "id": 2,
+            "title": "iPad Pro 11 2021 M1 Wi-Fi 256GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546013880588874_ipad-pro-11-wifi-dd.jpg",
+            "price": "24.499.000"
+        },
+        {
+            "id": 3,
+            "title": "iPad Pro 11 2021 M1 Wi-Fi 512GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546013880588874_ipad-pro-11-wifi-dd.jpg",
+            "price": "26.999.000"
+        },
+        {
+            "id": 4,
+            "title": "iPad 10.2 2021 Wi-Fi",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673410984406346_ipad-10-2-2021-wi-fi-dd.jpg",
+            "price": "9.990.000"
+        },
+        {
+            "id": 5,
+            "title": "iPad 10.2 2021 Wi-Fi + Cellular 64GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673425734693131_ipad-10-2-2021-wi-fi-cell-dd.jpg",
+            "price": "12.990.000"
+        },
+        {
+            "id": 6,
+            "title": "iPad 10.2 2021 Wi-Fi + Cellular 256GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673425734693131_ipad-10-2-2021-wi-fi-cell-dd.jpg",
+            "price": "16.990.000"
+        },
+        {
+            "id": 7,
+            "title": "iPad Mini 8.3 2021 Wi-Fi 64GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673371022722752_ipad-mini-8-3-2021-wi-fi-dd.jpg",
+            "price": "14.990.000"
+        },
+        {
+            "id": 8,
+            "title": "iPad Mini 8.3 2021 Wi-Fi 256GB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673371022722752_ipad-mini-8-3-2021-wi-fi-dd.jpg",
+            "price": "19.990.000"
+        },
+        {
+            "id": 9,
+            "title": "iPad Pro 11 2021 M1 Wi-Fi Bản Nâng Cao 1TB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546013880588874_ipad-pro-11-wifi-dd.jpg",
+            "price": "42.999.000"
+        },
+        {
+            "id": 10,
+            "title": "iPad Pro 11 2021 M1 Wi-Fi Bản Nâng Cao 2TB",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/21/637546013880588874_ipad-pro-11-wifi-dd.jpg",
+            "price": "51.999.000"
+        }
+    ],
+    "AppleWatch": [
+        {
+            "id": 1,
+            "title": "Apple Watch SE GPS 40mm viền nhôm dây cao su 40mm",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369907197319165_Apple%C2%A0Watch%20SE%20GPS%C2%A040mm%20dai%20dien.png",
+            "price": "7.999.000"
+        },
+        {
+            "id": 2,
+            "title": "Apple Watch SE GPS 40mm viền nhôm dây cao su 44mm",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369907197319165_Apple%C2%A0Watch%20SE%20GPS%C2%A040mm%20dai%20dien.png",
+            "price": "8.999.000"
+        },
+        {
+            "id": 3,
+            "title": "Apple Watch SE GPS + Cellular 40mm viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369906206366131_Apple%20Watch%20SE%20GPS%20Cellular%2040mm%20hong%20dai%20dien.png",
+            "price": "8.999.000"
+        },
+        {
+            "id": 4,
+            "title": "Apple Watch SE GPS + Cellular 44mm viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369906206366131_Apple%20Watch%20SE%20GPS%20Cellular%2040mm%20hong%20dai%20dien.png",
+            "price": "9.999.000"
+        },
+        {
+            "id": 5,
+            "title": "Apple Watch SE GPS + Cellular 44mm viền nhôm dây Sport Loop",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/11/637722424491485907_apple-watch-se-gps-cellular-44mm-vien-nhom-day-sport-loop-xam-dd.jpg",
+            "price": "9.999.000"
+        },
+        {
+            "id": 6,
+            "title": "Apple Watch Series 7 GPS, viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/6/637691335519254117_apple-watch-s7-do-dd.jpg",
+            "price": "10.999.000"
+        },
+        {
+            "id": 6,
+            "title": "Apple Watch Series 7 GPS + Cellular, viền nhôm dây cao su 41mm",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693869857638363_apple-watch-series-7-gps-cellular-41mm-bac-dd.jpg",
+            "price": "13.499.000"
+        },
+        {
+            "id": 7,
+            "title": "Apple Watch Series 7 GPS + Cellular, viền nhôm dây cao su 45mm",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/9/637693869857638363_apple-watch-series-7-gps-cellular-41mm-bac-dd.jpg",
+            "price": "13.999.000"
+        },
+        {
+            "id": 8,
+            "title": "Apple Watch Series 3 GPS 38mm viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2018/11/15/636778799310641475_00509082-1.jpg",
+            "price": "4.999.000"
+        },
+        {
+            "id": 9,
+            "title": "Apple Watch Series 3 GPS 42mm viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2018/11/15/636778799310641475_00509082-1.jpg",
+            "price": "5.999.000"
+        },
+        {
+            "id": 10,
+            "title": "Apple Watch Series 6 GPS 40mm viền nhôm dây cao su",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369904317142085_apple-watch-series-6-gps-40mm-dd.png",
+            "price": "8.499.000"
+        }
+    ],
+    "Accessories": [
+        {
+            "id": 1,
+            "title": "Tai Nghe Apple AirPods 2 with Wireless Charging Case Chính Hãng LL/A",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-2019-wireless-charging-case-00-700x700-1.jpg",
+            "price": "4.499.000"
+        },
+        {
+            "id": 2,
+            "title": "Tai Nghe Apple AirPods Pro Chính Hãng LL/A",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-pro-00-700x700-1.jpg",
+            "price": "5.999.000"
+        },
+        {
+            "id": 3,
+            "title": "Cable Sạc Lightning iPhone Chính Hãng",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/cap-sac-nhanh-iphone-11-chinh-hang-ha-noi-hcm.jpg",
+            "price": "250.000"
+        },
+        {
+            "id": 4,
+            "title": "Tai Nghe Apple AirPods 2 Chính Hãng LL/A",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-2019-00-700x700-2.jpg",
+            "price": "3.650.000"
+        },
+        {
+            "id": 5,
+            "title": "Tai nghe iphone 7/8Plus/X Apple EarPods Lightning chính hãng",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/tai-nghe-iphone-7-1.png",
+            "price": "490.000"
+        }
+    ],
+    "Services": [
+        {
+            "id": 1,
+            "title": "Thay Màn Hình Iphone Chính Hãng",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ft-thay-kinh.png",
+            "price": "290.000"
+        },
+        {
+            "id": 2,
+            "title": "Thay Kính Iphone Chính Hãng",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ft-thay-kinh.png",
+            "price": "290.000"
+        },
+        {
+            "id": 3,
+            "title": "Thay Pin Iphone Chính Hãng",
+            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ft-thay-pin.png",
+            "price": "500.000"
+        }
     ]
+    
 }

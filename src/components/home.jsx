@@ -11,7 +11,7 @@ function Home() {
             {dataWebsite.slider.map((picture) => {
               return (
                 <a href={picture.image}>
-                  <img src={picture.image} alt="" />
+                  <img className="banner" src={picture.image} alt="" />
                 </a>
               );
             })}
@@ -27,7 +27,7 @@ function Home() {
               return (
                 <Col xl={8} lg={8}>
                   <div className="item-product">
-                    <a href="#">
+                    <a href="/">
                       <img src={product.image} alt="" />
                     </a>
                   </div>
@@ -44,7 +44,7 @@ function Home() {
               return (
                 <Col xl={8} lg={12}>
                   <div className="item-article">
-                    <a href="#">
+                    <a href="/">
                       <img src={article.image} alt="" />
                       <div className="article-content">
                         <h3>{article.title}</h3>
