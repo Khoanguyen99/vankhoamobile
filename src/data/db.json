@@ -6,37 +6,38 @@
             "link": "/iphone",
             "items": [
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-12-iphone-12-pro-iphone-12-promax/",
+                    "linkChild": "/iphone13-13pro-13promax",
+                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-11Pro.svg",
+                    "titleChild": "iPhone 13 | 13 Pro | 13 Pro max"
+
+                },
+                {
+                    "linkChild": "/iphone12-12pro-12promax",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-11Pro.svg",
                     "titleChild": "iPhone 12 | 12 Pro | 12 Pro max"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-11-11-pro-11-pro-max/",
+                    "linkChild": "/iphone11-11pro-11promax",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-11Pro.svg",
                     "titleChild": "iPhone 11 | 11 Pro | 11 Pro max"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-xs-xs-max/",
+                    "linkChild": "/iphonexs-xsmax",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-XR.svg",
                     "titleChild": "iPhone Xs | Xs Max"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-x/",
+                    "linkChild": "/iphonex-xr",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-XR.svg",
                     "titleChild": "iPhone X | XR"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-8-8-plus-7-7-plus/",
+                    "linkChild": "/iphone8-8plus-7plus",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-8.svg",
                     "titleChild": "iPhone 8 | 8 Plus | 7 | 7Plus"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/iphone-7-7-plus/",
-                    "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPhone-8.svg",
-                    "titleChild": "iPhone 6s | 6SPlus"
-                },
-                {
-                    "linkChild": "#",
+                    "linkChild": "/all-iphone",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-All-Product.svg",
                     "titleChild": "Xem tất cả"
                 }
@@ -48,17 +49,17 @@
             "link": "/ipad",
             "items": [
                 {
-                    "linkChild": "https://hoaituanmobile.vn/ipad-pro/",
+                    "linkChild": "/ipad-pro",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Pro.png",
                     "titleChild": "iPad Pro"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/ipad-air/",
+                    "linkChild": "/ipad-air",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Air.svg",
                     "titleChild": "iPad Air"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/ipad-mini/",
+                    "linkChild": "/ipad-mini",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/HT-iPad-Air.svg",
                     "titleChild": "iPad Mini"
                 }
@@ -70,22 +71,22 @@
             "link": "/apple-watch",
             "items": [
                 {
-                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-5/",
+                    "linkChild": "/apple-watch-series-5",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri5.svg",
                     "titleChild": "Apple Watch Series 5"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-4/",
+                    "linkChild": "/apple-watch-series-4",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri4.svg",
                     "titleChild": "Apple Watch Series 4"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/apple-watch-series-3/",
+                    "linkChild": "/apple-watch-series-3",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-seri3.svg",
                     "titleChild": "Apple Watch Series 3"
                 },
                 {
-                    "linkChild": "#",
+                    "linkChild": "/all-apple-watch",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-apw-all.svg",
                     "titleChild": "Tất cả Apple Watch"
                 }
@@ -97,27 +98,27 @@
             "link": "/accessory",
             "items": [
                 {
-                    "linkChild": "https://hoaituanmobile.vn/tai-nghe/",
+                    "linkChild": "/tai-nghe",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-headphone.svg",
                     "titleChild": "Tai Nghe"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/sac-du-phong/",
+                    "linkChild": "/sac-du-phong",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-energy.svg",
                     "titleChild": "Sạc Dự Phòng"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/loa-bluetooth/",
+                    "linkChild": "/loa-bluetooth",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-sound.svg",
                     "titleChild": "Loa Bluetooth"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/cap-sac/",
+                    "linkChild": "/cap-sac",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-line.svg",
                     "titleChild": "Cáp Sạc"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/coc-sac/",
+                    "linkChild": "/coc-sac",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/ic-adapter.svg",
                     "titleChild": "Cóc Sạc"
                 }
@@ -129,17 +130,17 @@
             "link": "/apple-services",
             "items": [
                 {
-                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-pin/",
+                    "linkChild": "/thay-pin",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-1.svg",
                     "titleChild": "Thay Pin"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-kinh/",
+                    "linkChild": "/thay-kinh",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-2.svg",
                     "titleChild": "Thay Kính"
                 },
                 {
-                    "linkChild": "https://hoaituanmobile.vn/dich-vu/thay-man-hinh/",
+                    "linkChild": "/thay-man-hinh",
                     "imageChild": "https://hoaituanmobile.vn/wp-content/uploads/2020/06/icon-service-3.svg",
                     "titleChild": "Thay Màn Hình"
                 }
@@ -149,9 +150,7 @@
             "id": 6,
             "title": "Tin Tức",
             "link": "/news",
-            "items": [
-
-            ]
+            "items": []
         }
     ],
     "slider": [
@@ -276,7 +275,8 @@
                 "id": 1,
                 "title": "iPhone 13 Pro Max 128GB",
                 "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/3/11/637825879369097743_iphone-13-pro-max-dd-1.jpg",
-                "price": "30.490.000"
+                "price": "30.490.000",
+                "detailLink": "/iphone13"
             },
             {
                 "id": 2,
@@ -513,33 +513,39 @@
     "Accessories": [
         {
             "id": 1,
-            "title": "Tai Nghe Apple AirPods 2 with Wireless Charging Case Chính Hãng LL/A",
-            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-2019-wireless-charging-case-00-700x700-1.jpg",
+            "title": "Tai Nghe Apple AirPods 3 2021",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/20/637703243707644047_tai-nghe-airpods-3-2021-dd.jpg",
             "price": "4.499.000"
         },
         {
             "id": 2,
-            "title": "Tai Nghe Apple AirPods Pro Chính Hãng LL/A",
-            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-pro-00-700x700-1.jpg",
+            "title": "Tai Nghe Apple AirPods Pro 2021",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/20/637703258653853689_tai-nghe-airpods-pro-2021-dd.jpg",
             "price": "5.999.000"
         },
         {
             "id": 3,
-            "title": "Cable Sạc Lightning iPhone Chính Hãng",
+            "title": "Cable Sạc Lightning iPhone",
             "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/cap-sac-nhanh-iphone-11-chinh-hang-ha-noi-hcm.jpg",
             "price": "250.000"
         },
         {
             "id": 4,
-            "title": "Tai Nghe Apple AirPods 2 Chính Hãng LL/A",
-            "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/apple-airpods-2019-00-700x700-2.jpg",
+            "title": "Tai Nghe Apple AirPods 2",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/5/3/636924936322471575_pk-00564308-dd.png",
             "price": "3.650.000"
         },
         {
             "id": 5,
-            "title": "Tai nghe iphone 7/8Plus/X Apple EarPods Lightning chính hãng",
+            "title": "Tai nghe iphone 7/8Plus/X Apple EarPods Lightning",
             "image":  "https://hoaituanmobile.vn/wp-content/uploads/2020/06/tai-nghe-iphone-7-1.png",
             "price": "490.000"
+        },
+        {
+            "id": 6,
+            "title": "Tai nghe EarPods with 3.5 mm Headphone Plug",
+            "image":  "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2016/8/26/636078309815778221_HMPK-TAI-NGHE-EARPODS-WITH-REMOTE-AND-MIC-MD827ZMA-0001471.png",
+            "price": "600.000"
         }
     ],
     "Services": [

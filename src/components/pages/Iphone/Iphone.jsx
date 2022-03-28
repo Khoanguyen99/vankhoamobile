@@ -1,6 +1,8 @@
+import { Routes, Route, Link } from "react-router-dom";
 import { Row, Col } from "antd";
 import "../../../components/AppleProduct.css";
 import Data from "../../../data/db.json";
+import DetailPage from "./Detail_Iphone";
 
 function Iphone() {
   const dataWebsite = Data;
@@ -21,25 +23,25 @@ function Iphone() {
             <a href="tel:0868814399"> 0868814399</a>
           </span>
         </div>
-        <div className="apple-products">
+        <div className="products">
           <h3 className="line-product">&#10148; iPhone 13 Series</h3>
-          <Row justify="space-around" gutter={[16, 16]}>
+          <Row justify="space-around" gutter={[8, 32]}>
             {dataWebsite.iPhone.iPhone13Series.map((product) => {
               return (
-                <Col xl={6} lg={8}>
+                <Col className="products-container" xl={6} lg={8}>
                   <div className="apple-product">
-                    <a href="/">
+                    <Link className="image-iphone" to="/">
                       <img src={product.image} alt="" />
-                      <h3 className="name-product">{product.title}</h3>
-                    </a>
-                    <h3 className="price-product">{product.price}</h3>
+                    </Link>
+                    <h3 className="name-product">{product.title}</h3>
+                    <p className="price-product">{product.price}</p>
                     <div className="quick-action">
-                      <a href="/">
-                        <div className="quick-content">
-                          <h3>MUA NGAY</h3>
-                          <h4>SO SÁNH</h4>
-                        </div>
-                      </a>
+                      <Link className="buy-now" type="primary" to="/">
+                        MUA NGAY
+                      </Link>
+                      <Link className="compare" type="primary" to="/">
+                        SO SÁNH
+                      </Link>
                     </div>
                   </div>
                 </Col>
@@ -52,18 +54,20 @@ function Iphone() {
               return (
                 <Col xl={6} lg={8}>
                   <div className="apple-product">
-                    <a href="/">
-                      <img src={product.image} alt="" />
-                      <h3 className="name-product">{product.title}</h3>
-                    </a>
-                    <h3 className="price-product">{product.price}</h3>
+                    <div className="image-name">
+                      <Link className="image-iphone" to="/">
+                        <img src={product.image} alt="" />
+                        <h3 className="name-product">{product.title}</h3>
+                      </Link>
+                    </div>
+                    <p className="price-product">{product.price}</p>
                     <div className="quick-action">
-                      <a href="/">
-                        <div className="quick-content">
-                          <h3>MUA NGAY</h3>
-                          <h4>SO SÁNH</h4>
-                        </div>
-                      </a>
+                      <Link className="buy-now" type="primary" to="/">
+                        MUA NGAY
+                      </Link>
+                      <Link className="compare" type="primary" to="/">
+                        SO SÁNH
+                      </Link>
                     </div>
                   </div>
                 </Col>
@@ -76,18 +80,20 @@ function Iphone() {
               return (
                 <Col xl={6} lg={8}>
                   <div className="apple-product">
-                    <a href="/">
-                      <img src={product.image} alt="" />
-                      <h3 className="name-product">{product.title}</h3>
-                    </a>
-                    <h3 className="price-product">{product.price}</h3>
+                    <div className="image-name">
+                      <Link className="image-iphone" to="/">
+                        <img src={product.image} alt="" />
+                        <h3 className="name-product">{product.title}</h3>
+                      </Link>
+                    </div>
+                    <p className="price-product">{product.price}</p>
                     <div className="quick-action">
-                      <a href="/">
-                        <div className="quick-content">
-                          <h3>MUA NGAY</h3>
-                          <h4>SO SÁNH</h4>
-                        </div>
-                      </a>
+                      <Link className="buy-now" type="primary" to="/">
+                        MUA NGAY
+                      </Link>
+                      <Link className="compare" type="primary" to="/">
+                        SO SÁNH
+                      </Link>
                     </div>
                   </div>
                 </Col>

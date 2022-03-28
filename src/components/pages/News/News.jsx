@@ -3,7 +3,11 @@ import "../../../components/AppleProduct.css";
 import Data from "../../../data/db.json";
 
 function News() {
-  return <p>Trang đang được phát triển</p>;
+  return (
+    <p style={{ textAlign: "center", fontSize: "32px" }}>
+      Trang đang được phát triển
+    </p>
+  );
 }
 
 export default News;

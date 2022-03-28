@@ -13,6 +13,8 @@ import News from "./components/pages/News/News";
 
 function App() {
   const dataWebsite = Data;
+  console.log(Data["menu"].length);
+  var bridge;
 
   // const element = document.querySelector("#container");
   // const moveRight = document.querySelector(".body-container");
@@ -48,25 +50,35 @@ function App() {
           </div>
           <div className="navbar">
             {dataWebsite.menu.map((item) => {
-              const menu = (
-                <Menu className="menu-item-child">
-                  {item.items.map((itemChild) => {
-                    return (
-                      <Link
-                        to={itemChild.linkChild}
-                        title={itemChild.titleChild}
-                      >
-                        <img src={itemChild.imageChild} alt="#" />
-                        <span>{itemChild.titleChild}</span>
-                      </Link>
-                    );
-                  })}
-                </Menu>
-              );
+              if (item["items"].length > 0) {
+                const menu = (
+                  <Menu className="menu-item-child">
+                    {item.items.map((itemChild) => {
+                      return (
+                        <Link
+                          className="item-child"
+                          key={itemChild.id}
+                          to={itemChild.linkChild}
+                          title={itemChild.titleChild}
+                        >
+                          <img src={itemChild.imageChild} alt="#" />
+                          <span>{itemChild.titleChild}</span>
+                        </Link>
+                      );
+                    })}
+                  </Menu>
+                );
+
+                bridge = menu;
+                console.log(bridge);
+              } else {
+                bridge = "";
+              }
 
               return (
-                <Dropdown overlay={menu}>
+                <Dropdown overlay={bridge}>
                   <Link
+                    key={item.id}
                     className="menu-item ant-dropdown-link"
                     to={item.link}
                     title={item.title}
