@@ -29,7 +29,7 @@ body {
 
 header {
   background-color: #333;
-  height: 72px;
+  height: 76px;
 }
 
 .header-content {
@@ -87,6 +87,10 @@ header {
 
 .menu-item-child span {
   color: #333;
+}
+
+.item-child:hover > span {
+  color: orangered;
 }
 
 /* Slider */

@@ -1,61 +1,81 @@
+.products-container {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.line-product {
+  font-size: 18px;
+  margin-top: 40px;
+  text-align: left;
+}
 .apple-product {
   text-align: center;
-  padding: 10px;
+  position: relative;
+  height: 18.75rem;
+  margin: 0 auto;
+  width: 300px;
+  padding: 0 15px;
 }
-.apple-product > a > img {
-  width: 214px;
-  height: 214px;
+.image-iphone h3 {
+  margin-bottom: 0;
 }
+
 .apple-product:hover {
   border: 1px solid #dee2e6;
   border-radius: 5px;
+  height: calc(100% + 30px);
+}
+.apple-product > .image-iphone > img {
+  width: 214px;
+  height: 214px;
 }
 .apple-product:hover > a > .name-product {
   color: orangered;
 }
 .apple-product:hover > .quick-action {
-  display: block;
+  opacity: 1;
+  transform: translateY(0%);
 }
 .price-product {
   width: 130px;
-  margin: 0 auto;
-  padding: 5px;
+  margin: 0 auto 20px;
   border: 1px solid #dee2e6;
   border-radius: 30px;
   background: rgb(206, 21, 21);
   color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
 }
 .quick-action {
-  display: none;
+  width: calc(100% - 30px);
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease-in;
+  opacity: 0;
 }
 
-.quick-action h3 {
-  width: 50%;
-  border: 1px solid #dee2e6;
-  background: rgb(206, 21, 21);
+.buy-now,
+.compare {
+  border: none;
   color: #ffffff;
-}
-.quick-action h3,
-.quick-action h4 {
+  font-size: 16px;
+  font-weight: 500;
   border-radius: 5px;
-  margin: 10px;
-  padding: 5px;
+  padding: 5px 10px;
 }
-.quick-content {
-  display: flex;
-  margin: 10px 10px 0;
-  align-items: center;
+.buy-now {
+  background: #cb1c22;
+  margin-right: 20px;
 }
-.quick-action h4 {
-  width: 30%;
-  border: 1px solid #dee2e6;
-  background: #99a2aa;
+.buy-now:hover {
+  background: #ae1427;
   color: #ffffff;
 }
-
-.line-product {
-  text-align: left;
-  font-size: 25px;
-  text-transform: uppercase;
-  margin: 10px 0;
+.compare {
+  background: #99a2aa;
+  margin-left: 20px;
+}
+.compare:hover {
+  background: #6c757d;
+  color: #ffffff;
 }
